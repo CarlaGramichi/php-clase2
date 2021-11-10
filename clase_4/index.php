@@ -1,4 +1,18 @@
 <?php
+//Cuales hay?
+//for -> cuando conozco el nro de iteraciones
+//i=10
+//while -> while(i <10) {  } No conozco el numero de iteraciones
+//foreach($arrays as $array) PHP
+//do{..................} while(i<10)
+
+
+//FOR
+
+$total = 5987;
+$perPage = 100;
+$loopTotal = ceil(5987 / 100);
+
 
 //for($i=1; $i<= $loopTotal;$i++){
 //    echo 'Page: '.$i ."\n";
